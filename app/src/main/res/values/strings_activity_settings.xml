@@ -1,0 +1,26 @@
+<resources>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_parametres">Paramètres</string>
+
+    <string name="pref_title_rappel_frequency">Délai de rappel avant début de la punition</string>
+    <string-array name="pref_rappel_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+        <item>3 heures</item>
+        <item>6 heures</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="pref_rappel_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+</resources>

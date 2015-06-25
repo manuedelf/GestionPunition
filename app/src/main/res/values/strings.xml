@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestionPunition</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="loading">Chargement</string>
+    <string name="no_child">Aucun enfant trouvé</string>
+    <string name="title_activity_add_child">AddChildActivity</string>
+    <string name="edit_name">Saisissez le prénom</string>
+    <string name="button_add">Ajouter</string>
+    <string name="title_activity_punition">PunitionActivity</string>
+    <string name="no_punition">Aucune punition trouvée</string>
+    <string name="title_activity_add_punition">AddPunitionActivity</string>
+    <string name="punitionname">Nom de la punition</string>
+    <string name="to_date">Fin</string>
+    <string name="from_date">Début</string>
+    <string name="ajoutpunition">Ajouter une punition</string>
+    <string name="child_deletion">Enfant supprimé</string>
+    <string name="punition_deletion">Punition supprimée</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
